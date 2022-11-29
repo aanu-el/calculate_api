@@ -12,3 +12,12 @@
 `npm run start:dev`
 - Open http://localhost:3000 with API testing tools such as Postman or Thunder Client in VSCode
 - Test each endpoint
+
+## Routes
+- POST : `/calculate`
+
+## Request Params
+- action : `sum`, `subtract`, `divide`, `multiply`
+- num1
+- num2
+
